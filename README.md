@@ -6,6 +6,7 @@ My daily algorithmic problem-solving solutions from LeetCode.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -21,6 +22,7 @@ My daily algorithmic problem-solving solutions from LeetCode.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
