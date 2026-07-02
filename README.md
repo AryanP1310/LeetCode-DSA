@@ -28,6 +28,7 @@ My daily algorithmic problem-solving solutions from LeetCode.
 | [0001-two-sum](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@ My daily algorithmic problem-solving solutions from LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
