@@ -1,5 +1,5 @@
 # LeetCode-DSA Journey
-My daily algorithmic problem-solving solutions from LeetCode.
+My algorithmic problem-solving solutions from LeetCode.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
