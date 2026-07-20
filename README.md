@@ -22,6 +22,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@ My algorithmic problem-solving solutions from LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
