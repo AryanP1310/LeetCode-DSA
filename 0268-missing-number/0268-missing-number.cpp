@@ -1,17 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        std::unordered_map<int, int> countMap;
-
-        for(int num : nums)
-        {
-            countMap[num]++;
+        sort(nums.begin(),nums.end());
+        int end_range = nums.size();
+        int i = 0;
+        while(i < end_range){
+            if(i != nums[i]) return i;
+            i++;
         }
-        for(int i = 0; i < nums.size(); i++)
-        {
-            if(countMap[i] == 0)
-            return i;
-        }
-        return nums.size();
+        return end_range;
     }
 };
