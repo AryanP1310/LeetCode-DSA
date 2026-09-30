@@ -31,6 +31,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -75,6 +76,7 @@ My algorithmic problem-solving solutions from LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Trie
 |  |
