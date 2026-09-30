@@ -45,6 +45,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1929-concatenation-of-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +106,8 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0136-single-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
