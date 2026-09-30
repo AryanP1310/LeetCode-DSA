@@ -14,6 +14,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -47,6 +48,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
