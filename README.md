@@ -14,6 +14,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -56,6 +58,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +111,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0136-single-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
