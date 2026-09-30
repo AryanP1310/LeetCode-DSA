@@ -1,16 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        std::unordered_map <int, int> map;
-        for(int num : nums)
-        {
-            map[num]++;
+        int result = 0;
+        for (int num : nums) {
+            result ^= num;
         }
-        for(int num : nums)
-        {
-            if(map[num] == 1)
-            return num;
-        }
-        return nums[0];
+        return result;
     }
 };
