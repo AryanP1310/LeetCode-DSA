@@ -38,6 +38,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0066-plus-one](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -94,4 +95,8 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
