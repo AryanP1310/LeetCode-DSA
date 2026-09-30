@@ -33,6 +33,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0014-longest-common-prefix](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -84,4 +85,8 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
