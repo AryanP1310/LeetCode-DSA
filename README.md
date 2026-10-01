@@ -22,6 +22,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -110,6 +111,7 @@ My algorithmic problem-solving solutions from LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -125,4 +127,8 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
