@@ -32,6 +32,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
