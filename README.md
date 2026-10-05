@@ -29,6 +29,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -100,6 +101,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -139,4 +141,20 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
