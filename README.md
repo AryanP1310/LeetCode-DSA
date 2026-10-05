@@ -61,6 +61,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0485-max-consecutive-ones](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -101,6 +102,7 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Union-Find
 |  |
