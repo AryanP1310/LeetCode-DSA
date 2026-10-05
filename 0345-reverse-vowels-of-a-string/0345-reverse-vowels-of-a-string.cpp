@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string reverseVowels(string s) {
+    string reverseVowels(const string& s) {
         stack<char> st;
         for(int i=0;i<s.size();i++) {
             char c = s[i];
