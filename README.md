@@ -52,6 +52,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0217-contains-duplicate](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0027-remove-element](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
