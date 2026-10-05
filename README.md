@@ -65,6 +65,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Union-Find
 |  |
 | ------- |
