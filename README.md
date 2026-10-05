@@ -22,6 +22,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | ------- |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -122,6 +123,7 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -180,4 +182,8 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0605-can-place-flowers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
