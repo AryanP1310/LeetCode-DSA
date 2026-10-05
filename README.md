@@ -34,6 +34,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -109,6 +110,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
