@@ -55,6 +55,7 @@ My algorithmic problem-solving solutions from LeetCode.
 | [0347-top-k-frequent-elements](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -168,4 +169,8 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AryanP1310/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
