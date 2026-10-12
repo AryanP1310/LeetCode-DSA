@@ -7,7 +7,7 @@ public:
         while(x != 0)
         {
             rem = x % 10;
-            if(rev > m|| rev < l)
+            if(rev > INT_MAX/10|| rev < INT_MIN/10)
             {
                 return 0;
             }
