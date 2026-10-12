@@ -7,6 +7,7 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -29,6 +30,7 @@ My algorithmic problem-solving solutions from LeetCode.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -190,4 +192,8 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
