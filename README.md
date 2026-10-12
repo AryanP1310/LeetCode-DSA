@@ -21,6 +21,7 @@ My algorithmic problem-solving solutions from LeetCode.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0069-sqrtx) |
