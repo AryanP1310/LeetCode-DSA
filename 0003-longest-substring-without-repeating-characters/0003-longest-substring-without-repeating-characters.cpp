@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
+    int lengthOfLongestSubstring(const string& s) {
         unordered_map<char, int> charMap;
         int maxLength = 0;
         int left = 0;
