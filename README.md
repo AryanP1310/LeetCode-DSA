@@ -46,6 +46,7 @@ My algorithmic problem-solving solutions from LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanP1310/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0027-remove-element) |
@@ -114,6 +115,7 @@ My algorithmic problem-solving solutions from LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -188,6 +190,7 @@ My algorithmic problem-solving solutions from LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/AryanP1310/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 ## Newton's Method
 |  |
